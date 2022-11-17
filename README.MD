@@ -17,3 +17,6 @@ Tuto cestu poté uložte do systémových proměnných systému Windows.
 3. Kde v sekci "Systémové proměnné" přidáte či upravíte proměnnou jménem **Path**,
 4. Jako hodnotu proměnné nastavte <code>C:\webdrivers</code> v případě, že jste proměnnou vytvořili,
 5. Pokud již vytvořená byla, cestu přidáte pomocí tlačítka "Nový". 
+
+Jako testovací stránka nám poslouží - https://230914.9e.cz/, v případě nedostupnosti stránek či pro jiné účely můžeme využívat localhost. 
+Zdrojový kód včetně databáze naleznete zde: https://github.com/amax45/web_robot.
