@@ -3,7 +3,7 @@ from selenium import webdriver
 import pandas as pd
 
 
-df = pd.read_excel('C:\\webdrivers\\Data.xlsx')
+df = pd.read_excel('Data.xlsx')
 print(df.iloc[0])
 
 PATH = "C:\\webdrivers\\chromedriver.exe"
