@@ -32,7 +32,7 @@ for index in df.index:
 
     time.sleep(3)
 
-    temp = entry['Date1']
+    temp = entry['Date']
     date_input = driver.find_element_by_name('fdatum')
     date_input.send_keys(temp.strftime("%d/%m/%Y"))
 
