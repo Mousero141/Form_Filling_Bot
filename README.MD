@@ -1,5 +1,5 @@
 Robot slouží k vyplnění jednoduchého formuláře pro přidání známky studentovi v 
-daném předmětu. Je to pouze první část z projektu VUT FEKT Bezpečnost ICT2 - 
+daném předmětu. Je to část z projektu VUT FEKT Bezpečnost ICT2 - 
 "Návrh a testování nástroje k detekci bota na webové stránce". 
 
 Před spuštěním bota je nutné nainstalovat všechny dependencies, které robot využívá. V příkazové řádce 
