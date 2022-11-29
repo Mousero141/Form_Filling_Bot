@@ -44,6 +44,3 @@ for index in df.index:
     time.sleep(3)
     refresh_btn = driver.find_element_by_partial_link_text("Zpět")
     refresh_btn.click()
-
-time.sleep(5)
-driver.close()
